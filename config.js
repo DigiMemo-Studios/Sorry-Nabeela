@@ -62,11 +62,11 @@ const websiteData = {
           caption: "Always in my heart 💕"
         },
         {
-          url: "images/photo2.png",
+          url: "images/photo2.jpg",
           caption: "My favorite person ✨"
         },
         {
-          url: "images/photo3.png",
+          url: "images/photo3.jpg",
           caption: "11:11 You are my wish 🌸"
         }
       ],
